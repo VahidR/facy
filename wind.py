@@ -1,5 +1,5 @@
-#
-# @Name : Windy
+#!/usr/bin/env python
+
 # @Description: A little hack on visualizing the direction and speed of air currents 
 #      	        over North America.
 
